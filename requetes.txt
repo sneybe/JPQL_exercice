@@ -4,7 +4,7 @@
 
 3. Année de prod mini de nos films
 
-4. de liens du film 'Big Lebowski'
+4. Nombre liens du film 'Big Lebowski'
 
 5. Nombre de films réalisés par Polanski
 
