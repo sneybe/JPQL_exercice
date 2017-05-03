@@ -16,11 +16,11 @@
 
 9. Le nomnbre de films réalisés par joel coen
 
-10. Le nombre de films réalisés par les 2 frères coen
+10. Le nombre de films réalisés à la fois par les 2 frères coen
 
 11. Le nombre de films des frères coen interprétés par Steve Buscemi
 
-12. Le nombre de films policiers des frères Coen interprétés par Steve Buscemi
+12. Le nombre de films policiers réalisés à la fois par les 2 frères Coen, et interprétés par Steve Buscemi
 
 13. Le nombre de saisons de la série Dexter
 
@@ -37,3 +37,14 @@
 19. Parmi tous les films, uniquement ceux interprétés par Polanski  ( utiliser UNION ou MINUS ou INTERSECT )
 
 20. Tous les films interprétés par Polanski et aussi tous les films d'horreur ( utiliser UNION ou MINUS ou INTERSECT )
+
+21. Le nombre de films réalisés pour chaque genre ( GROUP BY )
+
+22. Le nombre de films réalisés pour chaque réalisateur, triés par ordre croissant puis par ordre alphabétique ( GROUP BY )
+
+23. Le nombre de films réalisés pour chaque réalisateur, uniquement si >= 2 ( GROUP BY et HAVING )
+
+24. Le nombre total de saisons pour chaque série, triés par ordre croissant de saisons, puis par ordre alphabétique.
+
+25. Le nombre total d'épisodes pour chaque série, pour peu qu'il y ait plus de 5 épisodes au total. Le tout trié par nbre d'épisodes.
+
